@@ -25,6 +25,7 @@ namespace OOPHandsOn
             int applesCount = 1234;
             string bananasText = "Bananas";
             int bananasCount = 56789;
+
             Console.WriteLine();
             Console.WriteLine(format: "{0,-10} {1,6}", arg0: "Name", arg1: "Count");
             Console.WriteLine(format: "{0,-10} {1,6:N0}", arg0: applesText, arg1: applesCount);
@@ -33,8 +34,6 @@ namespace OOPHandsOn
             Console.WriteLine();
             decimal value = 0.34M;
             Console.WriteLine("Currency: {0:C}, Percentage: {0:0.0%}", value);
-
-
         }
     }
 }
