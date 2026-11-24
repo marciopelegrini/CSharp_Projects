@@ -7,6 +7,5 @@ namespace OOPHandsOn.ContentContext
         public int Ordem { get; set; }
         public string Title { get; set; }
         public double DurationInMinutes { get; set; }
-        
     }
 }
