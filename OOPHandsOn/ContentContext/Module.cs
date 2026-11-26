@@ -1,8 +1,9 @@
+using OOPHandsOn.SharedContext;
 using System.Collections.Generic;
 
 namespace OOPHandsOn.ContentContext
 {
-    public class Module
+    public class Module : Base
     {
         public Module()
         {

@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|c:\\users\\peleg\\source\\repos\\csharp_projects\\oophandson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|c:\\users\\peleg\\source\\repos\\csharp_projects\\oophandson\\subscriptioncontext\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|solutionrelative:subscriptioncontext\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|c:\\users\\peleg\\source\\repos\\csharp_projects\\oophandson\\subscriptioncontext\\pagarme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|solutionrelative:subscriptioncontext\\pagarme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|c:\\users\\peleg\\source\\repos\\csharp_projects\\oophandson\\subscriptioncontext\\paypalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|solutionrelative:subscriptioncontext\\paypalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|c:\\users\\peleg\\source\\repos\\csharp_projects\\oophandson\\subscriptioncontext\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|solutionrelative:subscriptioncontext\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|c:\\users\\peleg\\source\\repos\\csharp_projects\\oophandson\\subscriptioncontext\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|solutionrelative:subscriptioncontext\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|c:\\users\\peleg\\source\\repos\\csharp_projects\\oophandson\\subscriptioncontext\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|solutionrelative:subscriptioncontext\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|c:\\users\\peleg\\source\\repos\\csharp_projects\\oophandson\\sharedcontext\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|solutionrelative:sharedcontext\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|c:\\users\\peleg\\source\\repos\\csharp_projects\\oophandson\\contentcontext\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|solutionrelative:contentcontext\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|c:\\users\\peleg\\source\\repos\\csharp_projects\\oophandson\\contentcontext\\careeritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|solutionrelative:contentcontext\\careeritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|c:\\users\\peleg\\source\\repos\\csharp_projects\\oophandson\\notificationcontext\\notifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895D7EC0-82B2-0390-1CB5-EE402D83ACCB}|OOPHandsOn.csproj|solutionrelative:notificationcontext\\notifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T16:45:44.416Z",
+              "IsPinned": true,
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagarMe.cs",
+              "DocumentMoniker": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\SubscriptionContext\\PagarMe.cs",
+              "RelativeDocumentMoniker": "SubscriptionContext\\PagarMe.cs",
+              "ToolTip": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\SubscriptionContext\\PagarMe.cs",
+              "RelativeToolTip": "SubscriptionContext\\PagarMe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T14:33:33.909Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PayPalSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\SubscriptionContext\\PayPalSubscription.cs",
+              "RelativeDocumentMoniker": "SubscriptionContext\\PayPalSubscription.cs",
+              "ToolTip": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\SubscriptionContext\\PayPalSubscription.cs",
+              "RelativeToolTip": "SubscriptionContext\\PayPalSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T14:31:40.444Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\SubscriptionContext\\Subscription.cs",
+              "RelativeDocumentMoniker": "SubscriptionContext\\Subscription.cs",
+              "ToolTip": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\SubscriptionContext\\Subscription.cs",
+              "RelativeToolTip": "SubscriptionContext\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T14:19:01.194Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Plan.cs",
+              "DocumentMoniker": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\SubscriptionContext\\Plan.cs",
+              "RelativeDocumentMoniker": "SubscriptionContext\\Plan.cs",
+              "ToolTip": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\SubscriptionContext\\Plan.cs",
+              "RelativeToolTip": "SubscriptionContext\\Plan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T14:17:22.807Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\SubscriptionContext\\Student.cs",
+              "RelativeDocumentMoniker": "SubscriptionContext\\Student.cs",
+              "ToolTip": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\SubscriptionContext\\Student.cs",
+              "RelativeToolTip": "SubscriptionContext\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T18:23:02.485Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\SubscriptionContext\\User.cs",
+              "RelativeDocumentMoniker": "SubscriptionContext\\User.cs",
+              "ToolTip": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\SubscriptionContext\\User.cs",
+              "RelativeToolTip": "SubscriptionContext\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T18:21:17.12Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\SharedContext\\Base.cs",
+              "RelativeDocumentMoniker": "SharedContext\\Base.cs",
+              "ToolTip": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\SharedContext\\Base.cs",
+              "RelativeToolTip": "SharedContext\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T18:18:59.194Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\ContentContext\\Article.cs",
+              "RelativeDocumentMoniker": "ContentContext\\Article.cs",
+              "ToolTip": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\ContentContext\\Article.cs",
+              "RelativeToolTip": "ContentContext\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T16:47:47.806Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CareerItem.cs",
+              "DocumentMoniker": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\ContentContext\\CareerItem.cs",
+              "RelativeDocumentMoniker": "ContentContext\\CareerItem.cs",
+              "ToolTip": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\ContentContext\\CareerItem.cs",
+              "RelativeToolTip": "ContentContext\\CareerItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T16:41:00.667Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Notifiable.cs",
+              "DocumentMoniker": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\NotificationContext\\Notifiable.cs",
+              "RelativeDocumentMoniker": "NotificationContext\\Notifiable.cs",
+              "ToolTip": "C:\\Users\\peleg\\source\\repos\\CSharp_Projects\\OOPHandsOn\\NotificationContext\\Notifiable.cs",
+              "RelativeToolTip": "NotificationContext\\Notifiable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T19:15:28.353Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
